@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sameer-faisal-b62697233/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sameer%20Faisal-blue?style=for-the-badge&logo=linkedin" alt="Sameer LinkedIn">
+    <img src="#" alt="Sawera LinkedIn">
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/Sameer051022/Sameer051022/blob/main/New banner.jpeg" alt="Banner that represents Sameer Faisal">
+  <img src="#" alt="Banner that represents Sameer Faisal">
 </div>
 
 <h2 align="center">💼 Tech Toolbox 🧰</h2>

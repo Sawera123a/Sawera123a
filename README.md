@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img src="#" alt="Banner that represents Sameer Faisal">
+  <img src="#" alt="Banner that represents Sawera">
 </div>
 
 <h2 align="center">💼 Tech Toolbox 🧰</h2>

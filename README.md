@@ -101,7 +101,7 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-  I’m a full-stack and AI developer with hands-on experience in MERN, WordPress, Python, and automation.  
+  I’m a full-stack and AI developer with hands-on experience in Web developing, WordPress, Python, and automation.  
   I focus on building AI-powered solutions that are scalable, accessible, and meaningful for users.
 </p>
 

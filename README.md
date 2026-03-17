@@ -3,16 +3,16 @@
 <h4 align="center">From Lahore 🇵🇰</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sameer-faisal-b62697233/" target="_blank">
+  <a href="https://www.linkedin.com/in/sawera-ashfaq/" target="_blank">
     <img src="#" alt="Sawera LinkedIn">
   </a>
 </p>
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="#" alt="Banner that represents Sawera">
-</div>
+</div> -->
 
 <h2 align="center">💼 Tech Toolbox 🧰</h2>
 

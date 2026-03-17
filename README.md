@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sawera-ashfaq/" target="_blank">
-    <img src="#" alt="Sawera LinkedIn">
+    <img src="https://www.linkedin.com/in/sawera-ashfaq/" alt="Sawera LinkedIn">
   </a>
 </p>
 

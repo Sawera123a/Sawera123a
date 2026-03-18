@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sameer051022?tab=repositories">
+  <a href="https://github.com/Sawera123a?tab=repositories">
     <img src="https://img.shields.io/badge/Check_Out-My_Repositories-green?style=for-the-badge" alt="Repositories Badge">
   </a>
 </p>

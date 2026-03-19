@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Sawera Ashfaq!</h1>
-<h3 align="center">🌐AI , WordPress & Web Developer | Chatbots | Gen AI | AI Agents</h3>
+<h3 align="center">🌐AI , WordPress & Web Developer | Automation | Gen AI | AI Agents</h3>
 <h4 align="center">From Lahore 🇵🇰</h4>
 
 <p align="center">
@@ -46,9 +46,9 @@
 <p align="center">
   I previously worked as:
   <br>
-  <b>AI Developer – Educist Testing Services</b>
+  <b>Web Developer - creating web applications</b>
   <br>
-  <b>MERN Developer with AI Integration – Meraks Consultants</b>
+  <b>Backend Developer in python  – Web scrapping</b>
   <br>
   I’m now working as a <b>freelancer</b>, delivering AI-powered web and automation solutions for global clients.
 </p>
@@ -77,7 +77,7 @@
 <p align="center">
   <code>Gen AI</code>
   <code>Agentic AI</code>,
-  <code>Advanced MERN Patterns</code>,
+  <code>Backend Developing</code>,
 </p>
 
 ---

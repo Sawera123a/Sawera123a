@@ -39,7 +39,7 @@
 
 <h2 align="center">🔥 What I Do</h2>
 <p align="center">
-  I design smart, scalable systems by combining MERN stack development, WordPress solutions, and advanced AI technologies.  
+  I design smart, scalable systems by combining Full stack development, WordPress solutions, and advanced AI technologies.  
   My work includes custom chatbots, full-stack applications, automation workflows, and Gen AI powered tools.
 </p>
 

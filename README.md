@@ -88,11 +88,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sameerf737@gmail.com">
+  <a href="mailto:saweraashfaq61@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://wa.me/+923370413873" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   <a href="https://www.upwork.com/freelancers/~017cae94a535028bbe?mp_source=share" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white">
